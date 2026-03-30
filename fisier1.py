@@ -1,1 +1,1 @@
-print ("linia 1")
+print ("linia1")
